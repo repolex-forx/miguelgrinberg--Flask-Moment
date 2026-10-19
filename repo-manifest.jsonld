@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/miguelgrinberg/Flask-Moment/commit/ec32737fbcb56dfec3412f51ee82598a808ba059",
       "git:hexsha": "ec32737fbcb56dfec3412f51ee82598a808ba059",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T12:50:38.024957+00:00"
     },
     {
       "@id": "https://repolex.ai/r/miguelgrinberg/Flask-Moment/commit/cedaa5ad9a8836208c5610fb5988e960c888cc97",
